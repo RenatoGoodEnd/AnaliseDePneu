@@ -10,7 +10,7 @@ Planilhas para análise de vida de pneu do transporte rodoviário
 | :fire: Desafio  
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://www.canva.com/design/DAEzvvVjsAY/KSH_FL-rDEa4a3aCvutOAw/view?utm_content=DAEzvvVjsAY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#vitrinedev)
+![](https://drive.google.com/file/d/17Nm_erIAUAQVJyvZAUABr5HpW8auwxeM/view?usp=sharing)
 
 ## Detalhes do projeto
 
